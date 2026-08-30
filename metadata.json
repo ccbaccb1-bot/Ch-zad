@@ -1,0 +1,6 @@
+{
+  "name": "Chaoub Art & Human Platform",
+  "description": "منصة الفنون التشكيلية المغربية والمزادات الحية والمعاينة بالواقع المعزز برؤية الفنان نبيل شعوب وجمعية فنون الإنسان ببنسليمان",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
